@@ -1,0 +1,19 @@
+{
+  "name": "tdd-methodologies",
+  "description": "Two complementary Test-Driven Development approaches: Kent Beck's organic TDD and structured Test-First TDD",
+  "owner": {
+    "name": "cash"
+  },
+  "plugins": [
+    {
+      "name": "kent-beck-tdd",
+      "source": "./plugins/kent-beck-tdd",
+      "description": "Kent Beck's organic TDD: Let design emerge naturally through small, iterative test cycles"
+    },
+    {
+      "name": "test-first-tdd",
+      "source": "./plugins/test-first-tdd",
+      "description": "Structured Test-First TDD: Plan-driven approach with comprehensive documentation and verification"
+    }
+  ]
+}

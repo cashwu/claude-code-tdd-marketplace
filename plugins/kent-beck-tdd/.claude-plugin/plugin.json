@@ -1,0 +1,8 @@
+{
+  "name": "kent-beck-tdd",
+  "description": "Kent Beck's organic TDD: Let design emerge naturally through small, iterative test cycles",
+  "version": "1.0.0",
+  "author": {
+    "name": "cash"
+  }
+}
